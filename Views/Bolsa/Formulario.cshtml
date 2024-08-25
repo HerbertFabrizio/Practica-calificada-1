@@ -1,0 +1,37 @@
+@model Practica_calificada_1.Controllers.Formulario
+<h1>Opere en bolsa</h1>
+
+<form app-controller="Formulario" app-action="Registro" method="post">
+    <div class="form-group">
+        <label for="Nombres">Nombres</label>
+        <input asp-for="Nombres" class="form-control"/>
+    </div>
+    <div class="form-group">
+        <label for="Apellidos">Apellidos</label>
+        <input asp-for="Nombres" class="form-control"/>
+    </div>
+    <div class="form-group">
+        <label for="email">Correo electronico</label>
+        <input asp-for="Nombres" class="form-control"/>
+    </div>
+    <div class="form-group">
+        <label for="fecha">Fecha de operación</label>
+        <input asp-for="Nombres" class="form-control"/>
+    </div>
+    <div class="form-group">
+        <label for="Instrumentos">Instrumentos: </label>
+    </div>
+    <div class="form-group">
+        <input type="checkbox" id="sp" name="sp" class="form-control"/>
+        <label for="sp">S&P</label>
+    </div>
+    <div class="form-group">
+        <input type="checkbox" id="dow" name="dow" class="form-control"/>
+        <label for="dow">Dow Jones</label>
+    </div>
+    <div class="form-group">
+        <input type="checkbox" id="bonos" name="bonos" class="form-control"/>
+        <label for="bonos">Bonos US</label>
+    </div>
+    <button type="submit" class="btn btn-primary">Invertir</button>
+</form>

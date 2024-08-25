@@ -1,0 +1,30 @@
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\bin\Debug\net8.0\appsettings.json
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\bin\Debug\net8.0\Practica calificada 1.staticwebassets.runtime.json
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\bin\Debug\net8.0\Practica calificada 1.exe
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\bin\Debug\net8.0\Practica calificada 1.deps.json
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\bin\Debug\net8.0\Practica calificada 1.runtimeconfig.json
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\bin\Debug\net8.0\Practica calificada 1.dll
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\bin\Debug\net8.0\Practica calificada 1.pdb
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\Practica calificada 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\Practica calificada 1.AssemblyInfoInputs.cache
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\Practica calificada 1.AssemblyInfo.cs
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\Practica calificada 1.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\Practica calificada 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\Practica calificada 1.RazorAssemblyInfo.cache
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\Practica calificada 1.RazorAssemblyInfo.cs
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\staticwebassets\msbuild.Practica calificada 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\staticwebassets\msbuild.build.Practica calificada 1.props
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Practica calificada 1.props
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Practica calificada 1.props
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\scopedcss\bundle\Practica calificada 1.styles.css
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\scopedcss\projectbundle\Practica calificada 1.bundle.scp.css
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\Practica calificada 1.dll
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\refint\Practica calificada 1.dll
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\Practica calificada 1.pdb
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\Practica calificada 1.genruntimeconfig.cache
+C:\Users\Fabrizio\Desktop\usmp\Practica calificada 1\obj\Debug\net8.0\ref\Practica calificada 1.dll
